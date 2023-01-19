@@ -5,3 +5,10 @@ body {
   height: 300px;
   width: 400px;
 }
+main {
+	height:75vh; 
+}
+* {
+	margin: 0;
+	padding: 0;
+}
